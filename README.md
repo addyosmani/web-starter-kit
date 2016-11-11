@@ -1,4 +1,4 @@
-# Starter [![Dependency Status](https://david-dm.org/racse1/starter.svg)](https://david-dm.org/racse1/starter) [![devDependency Status](https://david-dm.org/racse1/starter/dev-status.svg)](https://david-dm.org/racse1/starter#info=devDependencies)
+# Web Starter Kit [![Dependency Status](https://david-dm.org/racse1/web-starter-kit.svg)](https://david-dm.org/racse1/web-starter-kit) [![devDependency Status](https://david-dm.org/racse1/web-starter-kit/dev-status.svg)](https://david-dm.org/racse1/web-starter-kit#info=devDependencies)
 
 ## Getting started
 
