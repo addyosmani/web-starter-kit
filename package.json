@@ -15,7 +15,7 @@
     "lint:scripts": "eslint ./src/scripts/**/*.js",
     "lint:styles": "stylelint ./src/styles/**/*.css",
     "lint": "npm run lint:scripts && npm run lint:styles",
-    "serve": "concurrently -r \"npm run watch\" \"http-server -s ./dist\"",
+    "serve": "concurrently -r \"npm run watch\" \"http-server ./dist -s\"",
     "watch:scripts": "npm run compile:scripts -- -w",
     "watch:styles": "npm run compile:styles -- -w",
     "watch": "concurrently -r \"npm run watch:scripts\" \"npm run watch:styles\""
